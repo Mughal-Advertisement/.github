@@ -10,10 +10,10 @@ Founded by **Razwan Munawar**, Mughal Advertisement combines creative strategy w
 
 ## 🌐 Official Presence
 
-- 🌍 Website: https://mughaladvertisement.duckdns.org  
+- 🌍 Website: https://mughaladvertisement.com  
 - 📘 Facebook: https://facebook.com/mughaladvertisement  
 - ▶️ YouTube: https://youtube.com/mughaladvertisement  
-- ✍️ Blog: https://mughaladvertisement.blogspot.com  
+- ✍️ Blog: [https://blog.mughaladvertisement.com](https://blog.mughaladvertisement.com )
 
 ---
 
@@ -48,7 +48,7 @@ We ensure that **marketing power is no longer limited by budget**, while maintai
 
 ## 🧠 Our Competitive Advantages
 
-- **MASOS** – Marketing Automation & Strategy Operating System  
+- **MASOS** – MAS OS (Mughal Advertisement System Operating System)
 - Fully in-house marketing backend infrastructure  
 - End-to-end automation pipelines  
 - Custom CRM & client lifecycle management  
