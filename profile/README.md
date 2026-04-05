@@ -12,7 +12,7 @@ Founded by **Razwan Munawar**, Mughal Advertisement combines creative strategy w
 
 - 🌍 Website: https://mughaladvertisement.com  
 - 📘 Facebook: https://facebook.com/mughaladvertisement  
-- ▶️ YouTube: https://youtube.com/mughaladvertisement  
+- ▶️ YouTube: https://youtube.com/@mughaladvertisement  
 - ✍️ Blog: [https://blog.mughaladvertisement.com](https://blog.mughaladvertisement.com )
 
 ---
